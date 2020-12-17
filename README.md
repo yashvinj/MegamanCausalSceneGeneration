@@ -18,3 +18,23 @@ Action is any action that either of the characters can perform. The left side of
 affect the background of the fight. Given these attributes, a scence will be generated.
 
 ## Repository Structure
+
+/mgan_dataset folder contains all the images used to train the VAE and GAN
+/Dag.Rmd is the r markdown file to make the DAG for the bayesian network
+/GAN.ipynb is a python notebook to create images from a GAN
+/VAE.ipynb is a python notebook to create images from a VAE
+/Causal scene generation/Causal scene generation/ folder contains the images for conditioning and interventions
+/Causal_Scene_Generation.ipynb is a python notebook run in Colab that contains the python UI to run the scene generation
+
+## Dependencies
+Python libraries and packages needed for this project are
+
+1)keras
+2) torch
+3) matplotlib
+4) Pillow
+5) numpy
+6) collections
+7) googlesearch
+8) ipywidgets
+9) IPython.display
