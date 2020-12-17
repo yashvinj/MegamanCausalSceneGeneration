@@ -37,4 +37,4 @@ Python libraries and packages needed for this project are
 6) collections \
 7) googlesearch \
 8) ipywidgets \
-9) IPython.display \
+9) IPython.display 
