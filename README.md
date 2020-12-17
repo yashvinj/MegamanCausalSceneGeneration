@@ -24,7 +24,7 @@ affect the background of the fight. Given these attributes, a scence will be gen
 /GAN.ipynb is a python notebook to create images from a GAN \
 /VAE.ipynb is a python notebook to create images from a VAE \
 /Causal scene generation/Causal scene generation/ folder contains the images for conditioning and interventions \
-/Causal_Scene_Generation.ipynb is a python notebook run in Colab that contains the python UI to run the scene generation \
+/Causal_Scene_Generation.ipynb is a python notebook run in Colab that contains the python UI to run the scene generation 
 
 ## Dependencies
 Python libraries and packages needed for this project are
